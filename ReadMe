@@ -1,0 +1,4 @@
+1. To create binary file from asm or nasm file execute script.
+    $ ./compile64 nameOftheFile  (without extension)
+    
+2. Execute file: $ ./nameOftheFile
