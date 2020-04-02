@@ -1,3 +1,4 @@
+<html>
 <h2>To compile</h2>
 
 1. To create binary file from asm or nasm file execute script.
@@ -18,4 +19,4 @@ Netwide Assembler. NASM will currently output flat-form binary files, a.out, COF
 <br>
 - build-essential contain a bunch of new packages including gcc, g++ and make.
     
-  
+  </html>
