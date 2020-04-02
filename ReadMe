@@ -1,22 +1,20 @@
-<html>
-<h2>To compile</h2>
+To compile
 
 1. To create binary file from asm or nasm file execute script.
     $ ./compile64 nameOftheFile  (without extension)
     
 2. Execute file: $ ./nameOftheFile
-<br><br>
-<h2>Install repository</h2>
+
+Install repository
 
 $sudo apt-get install nasm build-essential
-<br>
+
 - with -y flag to quickly install the packages and dependencies
-<br>
-- nasm<BR>
+
+- nasm
 General-purpose x86 assembler
-Netwide Assembler. NASM will currently output flat-form binary files, a.out, COFF and ELF Unix object files, and Microsoft 16-bit DOS and Win32 object files. General-purpose x86 assembler
-Netwide Assembler. NASM will currently output flat-form binary files, a.out, COFF and ELF Unix object files, and Microsoft 16-bit DOS and Win32 object files. 
-<br>
+Netwide Assembler. NASM will currently output flat-form binary files, a.out, COFF and ELF Unix object files, 
+and Microsoft 16-bit DOS and Win32 object files. General-purpose x86 assembler
+
 - build-essential contain a bunch of new packages including gcc, g++ and make.
-    
-  </html>
+
